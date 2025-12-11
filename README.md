@@ -29,7 +29,7 @@ I'm a Full Stack Developer specializing in web and mobile applications. I work w
 |---------|-------------|------|
 | [GlowBook](https://github.com/Linyue-dev/GlowBook) | Appointment booking platform for spa & wellness businesses | ASP.NET Core, EF Core, Azure |
 | [HomeBudget_WPF](https://github.com/Linyue-dev/HomeBudget_WPF) | Desktop app for personal finance management | C#, WPF, MVP |
-| [Budget API](https://github.com/Linyue-dev/Budget) | Backend API for budget management | ASP.NET Core, REST API |
+| [Budget](https://github.com/Linyue-dev/Budget) | Core library (DLL) for HomeBudget finance system | C#, EF Core, SQLite |
 | [Active Portfolio](https://github.com/Linyue-dev/active-portfolio-mobile) | Mobile platform for CS students to showcase projects | Kotlin, Android, Node.js |
 
 ---
