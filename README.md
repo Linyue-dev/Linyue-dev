@@ -1,28 +1,39 @@
-# Hi there, I'm Linyue 👋
+# Hi, I'm Linyue Wang
 
-## About Me 🧑‍💻
-I'm a Full Stack Developer based in Montreal, specializing in Python, React, and C#. I have solid experience working with Docker and CI/CD pipelines, building both web and mobile applications.
+**Full Stack Developer** · Montreal, QC  
+Computer Science @ John Abbott College · Class of 2026
 
-## Skills & Technologies 💻
-- 🟦 C#
-- ⚛️ JavaScript (React)
-- 🐍 Python
-- 🤖 Kotlin (Android)
-- 📚 Frameworks & Libraries: React, .NET (EF Core, ASP.NET Core)
-- 🛠️ Tools & Platforms: Docker, CI/CD, Git, Azure
-- 🌐 Web & Mobile App Development
-- ⚙️ Agile Methodologies
+[![Portfolio](https://img.shields.io/badge/Portfolio-linyue--dev.github.io-667eea?style=flat-square)](https://linyue-dev.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-linyue--wang-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/linyue-wang)
+[![Email](https://img.shields.io/badge/Email-selina__yue%40hotmail.com-ea4335?style=flat-square&logo=gmail)](mailto:selina_yue@hotmail.com)
 
-## What I’m Working On 🚀
-- 📱 Building Android apps using Kotlin
-- 🌐 Developing web APIs and web apps with EF Core and ASP.NET Core
-- 🎮 Designing games using JavaScript
+---
 
-## Contact Me 📬
-- ✉️ Email: selina_yue@hotmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/linyue-wang
-- 🐙 GitHub: https://github.com/linyueCS-IT/linyueCS-IT
+### About Me
 
-## Fun Facts 🎉
-- 📖 I enjoy reading, especially history books.
-- ✍️ I love writing travel logs and creating vlogs to share my adventures.
+I'm a Full Stack Developer specializing in web and mobile applications. I work with C#, Python, React, and Kotlin, with hands-on experience in Docker, Azure, and CI/CD pipelines.
+
+---
+
+### Tech Stack
+
+**Languages:** C#, JavaScript, Python, Kotlin, SQL  
+**Frameworks:** ASP.NET Core, Entity Framework, React, WPF  
+**Tools:** Docker, Git, Azure, GitHub Actions  
+
+---
+
+### Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [GlowBook](https://github.com/Linyue-dev/GlowBook) | Appointment booking platform for spa & wellness businesses | ASP.NET Core, EF Core, Azure |
+| [HomeBudget_WPF](https://github.com/Linyue-dev/HomeBudget_WPF) | Desktop app for personal finance management | C#, WPF, MVVM |
+| [Budget API](https://github.com/Linyue-dev/Budget) | Backend API for budget management | ASP.NET Core, REST API |
+| [Active Portfolio](https://github.com/Linyue-dev/active-portfolio-mobile) | Mobile platform for CS students to showcase projects | Kotlin, Android, Node.js |
+
+---
+
+### Beyond Coding
+
+I enjoy reading history books and documenting my adventures through travel logs and vlogs.
